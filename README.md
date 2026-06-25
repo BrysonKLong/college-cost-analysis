@@ -1,4 +1,7 @@
 # College Cost Analysis & Predictive Modeling
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-Regression-orange)
 
 ## Overview
 
@@ -77,3 +80,7 @@ Regression diagnostic plots were used to evaluate model assumptions, including r
 - Expand feature engineering using additional institutional variables
 - Develop an interactive Power BI dashboard
 - Perform cross-validation and compare alternative regression techniques
+
+## Conclusion
+
+This project demonstrates how exploratory data analysis and multiple linear regression can be used to better understand the factors influencing college attendance costs. By combining statistical modeling with data visualization, the analysis provides meaningful insights into institutional spending patterns and tuition differences while reinforcing the importance of data-driven decision-making.
