@@ -4,6 +4,8 @@
 
 This project analyzes data from 777 U.S. colleges to identify the factors that influence college attendance costs and predict tuition using multiple linear regression.
 
+The analysis combines exploratory data analysis (EDA), feature engineering, statistical modeling, and regression diagnostics to uncover meaningful insights into the drivers of higher education costs.
+
 ## Business Problem
 
 College affordability is an important issue for students and families. This project investigates which institutional characteristics contribute most to higher costs.
@@ -13,19 +15,24 @@ College affordability is an important issue for students and families. This proj
 - 777 U.S. colleges
 - Public and Private Institutions
 
-## Tools
+## Technologies Used
 
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Statsmodels
+- Jupyter Notebook
 
 ## Key Findings
 
 - Private colleges cost approximately $5,356 more than public colleges.
 - Private institutions spend roughly $3,028 more per student.
 - Regression model explained approximately 50% of tuition variation.
+
+## Business Impact
+
+This project demonstrates how statistical modeling can be used to better understand college affordability. The findings highlight how institutional spending and college type influence attendance costs, providing data-driven insights that could support students, families, and higher education decision-makers.
 
 ## Visualizations
 
@@ -67,5 +74,6 @@ Regression diagnostic plots were used to evaluate model assumptions, including r
 ## Future Improvements
 
 - Compare additional machine learning models
-- Expand feature engineering
-- Create interactive dashboards
+- Expand feature engineering using additional institutional variables
+- Develop an interactive Power BI dashboard
+- Perform cross-validation and compare alternative regression techniques
