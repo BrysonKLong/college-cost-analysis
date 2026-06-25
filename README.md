@@ -84,3 +84,11 @@ Regression diagnostic plots were used to evaluate model assumptions, including r
 ## Conclusion
 
 This project demonstrates how exploratory data analysis and multiple linear regression can be used to better understand the factors influencing college attendance costs. By combining statistical modeling with data visualization, the analysis provides meaningful insights into institutional spending patterns and tuition differences while reinforcing the importance of data-driven decision-making.
+
+## Business Recommendations
+
+Based on the analysis:
+
+- Institutions with higher expenditures per student generally have higher attendance costs.
+- Students comparing colleges should evaluate institutional spending alongside tuition.
+- Future models could incorporate additional variables such as financial aid, graduation rates, and geographic location to improve predictive accuracy.
